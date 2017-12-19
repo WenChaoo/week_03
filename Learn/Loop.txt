@@ -1,7 +1,7 @@
 一、不定循环
     不知道循环多少次
    1、while do done
-	while 的中文是『当....时』，所以，这种方式说的是『当 condition 条件成立时，就进行回圈，直到 condition 的
+	while 的中文是『当....时』，所以，这种方式说的是『当 condition 条件成立时，就进行循环，直到 condition 的
 条件不成立才停止』的意思。格式如下：
 	while [ condition ]  <==中括号内的状态就是判断式
 	do            <==do 是循环的开始！
